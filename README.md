@@ -7,3 +7,5 @@ To start:
 `npm run dev`
 
 Download Postgres and Postman. 
+
+Istiaque Khan: Istiaquek49
